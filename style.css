@@ -62,7 +62,7 @@ nav .fa-bars {
 header {
 	position: relative;
 	height: 60rem;
-	background-image: url(../img/aurora.png);
+	background-image: url(img/aurora.png);
 	background-position: center;
 	background-size: cover;
 	font-family: "Ephesis", cursive;
